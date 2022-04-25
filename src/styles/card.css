@@ -1,6 +1,9 @@
 .card {
-    width: 50vw;
-    height: 50vh;
+    width: 25vw;
+    height: 25vh;
+    max-width: 500px;
+    max-height: 750px;
+    margin-bottom: 25%;
 }
 
 .card-container {
