@@ -1,9 +1,27 @@
 .card {
     width: 25vw;
     height: 25vh;
-    max-width: 500px;
-    max-height: 750px;
-    margin-bottom: 25%;
+    margin-top: 10%;
+}
+
+.card-body {
+    background-color: #1A1B21;
+}
+
+.job-title {
+    color: #F3BF99;
+}
+
+.site-link {
+    color: white;
+}
+
+.card-footer {
+    background-color: #161619;
+}
+
+.fa-footer {
+    color: #918E9B;
 }
 
 .card-container {
@@ -11,7 +29,6 @@
     height: 100vh; 
     display: flex;
     justify-content: center;
-    align-items: center;
     background-color: #23252C;
     color: white;
 }
